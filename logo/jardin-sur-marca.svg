@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="40 36 432 470" role="img" aria-label="Jardín Sur"><defs>
+<linearGradient id="fl" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#FF4D0D"/><stop offset=".55" stop-color="#FF8A1F"/><stop offset="1" stop-color="#FFC83D"/></linearGradient>
+<linearGradient id="fl2" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#FFB02E"/><stop offset="1" stop-color="#FFF0A8"/></linearGradient>
+<clipPath id="cp"><circle cx="256" cy="276" r="172"/></clipPath>
+</defs><g>
+<circle cx="256" cy="276" r="200" fill="none" stroke="#EDEDED" stroke-width="17" stroke-dasharray="1088 169" transform="rotate(-68 256 276)"/>
+<g clip-path="url(#cp)" fill="#EDEDED"><rect x="60" y="326" width="392" height="13" rx="6.5"/><rect x="60" y="354" width="392" height="13" rx="6.5"/><rect x="60" y="382" width="392" height="13" rx="6.5"/><rect x="60" y="410" width="392" height="13" rx="6.5"/></g>
+<path fill="url(#fl)" d="M258 46C262 108 336 148 336 236C336 284 302 316 256 316C210 316 176 284 176 238C176 198 200 174 212 138C226 160 236 172 244 196C254 150 248 96 258 46Z"/>
+<path fill="url(#fl2)" d="M256 176C262 208 298 226 298 264C298 290 280 306 256 306C232 306 214 290 214 264C214 236 242 218 256 176Z"/>
+</g></svg>
